@@ -7,10 +7,10 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web & Mobile Applications**
-- 🌱 I’m learning **Advanced React, Backend APIs**
-- 👯 I’m open to collaborating on **Open Source Projects**
+### 👨💻 About Me
+- 🔭 I'm currently working on **Web & Mobile Applications**
+- 🌱 I'm learning **Advanced React, Backend APIs**
+- 👯 I'm open to collaborating on **Open Source Projects**
 - 💬 Ask me about **Python, React, Git**
 - ⚡ Fun fact: I love building real-world projects
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Victormarshall911&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Victormarshall911&theme=tokyonight" />
 </p>
 
 ---
