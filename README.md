@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victormarshall911&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Victormarshall911&theme=tokyonight" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 📫 Connect With Me
 <p>
   <a href="https://x.com/marshallvicto18" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/marshall-victor-501460213/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
