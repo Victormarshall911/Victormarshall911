@@ -9,9 +9,9 @@
 
 ### 👨💻 About Me
 - 🔭 I'm currently working on **Web & Mobile Applications**
-- 🌱 I'm learning **Advanced React, Backend APIs**
+- 🌱 I work with **Advanced React, Backend APIs**
 - 👯 I'm open to collaborating on **Open Source Projects**
-- 💬 Ask me about **Python, React, Git**
+- 💬 Ask me about **Python, Django, React, React Native, Git**
 - ⚡ Fun fact: I love building real-world projects
 
 ---
