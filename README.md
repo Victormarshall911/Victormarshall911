@@ -48,11 +48,11 @@ Uptime          : 99.99% (Event loop fueled by caffeine & clean abstractions ☕
 
 | Project | Stack | Description | Status |
 | :--- | :--- | :--- | :---: |
+| 🏡 **[LandMarket Engine](https://github.com/Victormarshall911/real_estate_api)** | `Django 5` `DRF` `PostgreSQL` `Channels` `WebSockets` | High-scale real estate platform engine with wallet escrows, verified agent directories, and live WebSocket chat. | `Production` |
 | 🛍️ **[DOVI Marketplace](https://github.com/Victormarshall911)** | `Django` `React` `TypeScript` `PostgreSQL` `Cloudflare R2` | Enterprise-grade multi-vendor platform with escrow transaction protection, automated shipping & analytics. | `Production` |
-| 💬 **[NexTalk](https://github.com/Victormarshall911/NexTalk)** | `Python` `Django REST` `TypeScript` `WebSockets` | High-throughput real-time social networking and direct messaging backend with WebSocket pipelines. | `Active` |
+| 💬 **[NexTalk](https://github.com/Victormarshall911/Nextalk_backend)** | `Python` `Django REST` `TypeScript` `WebSockets` | High-throughput real-time social networking and direct messaging backend with WebSocket pipelines. | `Active` |
 | 🚚 **[DispatchIQ](https://github.com/Victormarshall911/dispatchiq)** | `TypeScript` `React` `Node.js` `Tailwind` | Smart logistics dispatch system with dynamic parcel routing, live tracking, and driver management. | `Active` |
-| 🏡 **[CampusNest](https://github.com/Victormarshall911/CampusNest)** | `TypeScript` `React` `PostgreSQL` | Student accommodation marketplace simplifying housing search and verified landlord bookings. | `Active` |
-| 🛠️ **[Artiz](https://github.com/Victormarshall911/Artiz)** | `HTML5` `JavaScript` `CSS3` `APIs` | Commission-free artisan service marketplace with integrated escrow guarantee for skilled professionals. | `Shipped` |
+| 📱 **[COOUCart](https://github.com/Victormarshall911/COOUCart)** | `React Native` `Expo` `TypeScript` `Mobile` | Campus peer-to-peer mobile marketplace built with React Native and Expo for student commerce. | `Active` |
 
 ---
 
