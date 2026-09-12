@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/X-@marshallvicto18-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <a href="mailto:favourjames1977@gmail.com" target="_blank">
+  <a href="mailto:marshallvictor46@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
