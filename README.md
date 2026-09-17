@@ -28,34 +28,85 @@
 
 <br/>
 
-<!-- ═══════════════════════════════ BOOT SEQUENCE ═══════════════════════════════ -->
+<!-- ═══════════════════════════════ ABOUT & TECH STACK ═══════════════════════════════ -->
 
-```console
-victor@ubuntu-macbook:~$ systemctl status dev.service
-● dev.service - Victor Marshall's Engineering Runtime
-     Loaded: loaded (/etc/systemd/system/dev.service; enabled; preset: enabled)
-     Active: active (running)
-   Main PID: 1337 (python3)
-      Tasks: 42 (limit: 9000)
-     Memory: ∞ (caffeine-backed)
-        CPU: 99.9%
-     CGroup: /user.slice/victor.slice/engineering
-             ├─ 1337 python3 -m uvicorn main:app --reload --workers 8
-             ├─ 2048 node ./dist/server.js
-             └─ 4096 docker compose up -d --build
+<h3 align="center">👨‍💻 About Me & Technical Toolbelt</h3>
 
-victor@ubuntu-macbook:~$ neofetch --engineer-mode
+<table align="center">
+  <tr>
+    <td align="left" valign="top" width="45%">
+      <h4>🚀 Profile Summary</h4>
+      <ul>
+        <li>🌍 Based in <b>Lagos, Nigeria</b></li>
+        <li>🎓 <b>ALX SE Alum</b> & CS Undergrad @ <b>COOU</b></li>
+        <li>💻 Building on <b>Ubuntu Linux</b> (MacBook)</li>
+        <li>⚡ Architecting microservices & event-driven systems</li>
+        <li>🎯 Currently leading <b>GDG Tech Workshops</b></li>
+        <li>☕ 99.99% Uptime (fueled by caffeine)</li>
+      </ul>
+    </td>
+    <td align="left" valign="top" width="55%">
+      <h4>🛠️ Tech Stack & Tools</h4>
+      <b>Core Languages</b><br/>
+      <img src="https://skillicons.dev/icons?i=py,ts,js,c,bash,html,css&theme=dark" alt="Languages" /><br/><br/>
+      <b>Frameworks & Backends</b><br/>
+      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,react,nextjs,tailwind&theme=dark" alt="Frameworks" /><br/><br/>
+      <b>Cloud, DB & DevOps</b><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,aws,cloudflare,linux,git,github,postman,vscode&theme=dark&perline=9" alt="DevOps and Tools" />
+    </td>
+  </tr>
+</table>
 
----------------------------------------------------------
-Host            : Full-Stack & Distributed Systems Engineer
-Location        : Lagos, Nigeria
-Education       : ALX SE Alum | CS Undergrad @ COOU
-Environment     : Ubuntu Linux (MacBook Hardware)
-Core Languages  : Python 3.12, TypeScript 5.x, JavaScript (ESNext), C, SQL, Bash
-Backend & APIs  : Django REST Framework, FastAPI, Node.js, Express, WebSockets
-Frontend & UI   : React 18, Next.js, React Native, Redux Toolkit, Tailwind CSS
-Storage & Cloud : PostgreSQL (Neon), Redis, Cloudflare R2, Supabase, Docker, AWS
-Architecture    : Microservices, Event-Driven Systems, Escrow Transactions, REST
-Status          : Shipping production platforms & architecting cloud systems 🚀
-Uptime          : 99.99% (Event loop fueled by caffeine & clean abstractions ☕)
----------------------------------------------------------
+<br/>
+
+<!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
+
+### ⚡ Featured Engineering & Systems
+
+| Project | Stack | Description | Status |
+| :--- | :--- | :--- | :---: |
+| 🏡 **[LandMarket Engine](https://github.com/Victormarshall911/real_estate_api)** | `Django 5` `DRF` `PostgreSQL` `Channels` `WebSockets` | High-scale real estate platform engine with wallet escrows, verified agent directories, and live WebSocket chat. | `Production` |
+| 🛍️ **[DOVI Marketplace](https://github.com/Victormarshall911)** | `Django` `React` `TypeScript` `PostgreSQL` `Cloudflare R2` | Enterprise-grade multi-vendor platform with escrow transaction protection, automated shipping & analytics. | `Production` |
+| 💬 **[NexTalk](https://github.com/Victormarshall911/Nextalk_backend)** | `Python` `Django REST` `TypeScript` `WebSockets` | High-throughput real-time social networking and direct messaging backend with WebSocket pipelines. | `Active` |
+| 🚚 **[DispatchIQ](https://github.com/Victormarshall911/dispatchiq)** | `TypeScript` `React` `Node.js` `Tailwind` | Smart logistics dispatch system with dynamic parcel routing, live tracking, and driver management. | `Active` |
+| 📱 **[COOUCart](https://github.com/Victormarshall911/COOUCart)** | `React Native` `Expo` `TypeScript` `Mobile` | Campus peer-to-peer mobile marketplace built with React Native and Expo for student commerce. | `Active` |
+
+---
+
+### 🐍 Contribution Stream
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victormarshall911/Victormarshall911/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victormarshall911/Victormarshall911/output/github-snake.svg">
+    <img alt="Snake Contribution Graph" src="https://raw.githubusercontent.com/Victormarshall911/Victormarshall911/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 📊 Telemetry & Performance Metrics
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Victormarshall911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=7ee787&border_radius=8" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://streak-stats.demolab.com/?user=Victormarshall911&theme=tokyonight&hide_border=true&border_radius=8&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormarshall911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
