@@ -42,7 +42,7 @@
         <li>💻 Building on <b>Ubuntu Linux</b> MacOs</li>
         <li>⚡ Architecting microservices & event-driven systems</li>
         <li>🎯 Currently leading <b>GDG Tech Workshops</b></li>
-        <li>☕ 99.99% Uptime (fueled by caffeine)</li>
+        <li>☕ 99.99% Uptime (fueled by the love of coding)</li>
       </ul>
     </td>
     <td align="left" valign="top" width="55%">
