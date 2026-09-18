@@ -39,7 +39,7 @@
       <ul>
         <li>🌍 Based in <b>Lagos, Nigeria</b></li>
         <li>🎓 <b>ALX SE Alum</b> & CS Undergrad @ <b>COOU</b></li>
-        <li>💻 Building on <b>Ubuntu Linux</b> (MacBook)</li>
+        <li>💻 Building on <b>Ubuntu Linux</b> MacOs</li>
         <li>⚡ Architecting microservices & event-driven systems</li>
         <li>🎯 Currently leading <b>GDG Tech Workshops</b></li>
         <li>☕ 99.99% Uptime (fueled by caffeine)</li>
